@@ -7,8 +7,8 @@ Aspiring software engineer with a focus on AI, automation, and full-stack web de
 ## 📁 Projects
 
 ### 🧑‍💻 Personal
-- [Portfolio Website](https://github.com/Jugernaut73/Portfolio-Website) – My personal portfolio site built with **Next.js + Sanity**.
-- [Full-stack-Next.js-YC-Directory](https://github.com/Jugernaut73/Full-stack-Next.js-YC-Directory) – A **Next.js + Sanity** web app that lists and filters YC startups.
+- [Portfolio Website](https://zach-ault-portfolio.vercel.app/) – My personal portfolio site built with **Next.js + Sanity**.
+- [Full-stack-Next.js-YC-Directory](https://full-stack-next-js-yc-directory.vercel.app/) – A **Next.js + Sanity** web app that lists and filters YC startups.
 - [React-Project-1](https://github.com/Jugernaut73/React-Project-1) – Short project to learn the fundamentals of **React**
 
 ### 🎓 College
